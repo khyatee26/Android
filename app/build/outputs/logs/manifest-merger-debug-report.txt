@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\khyat\.android\build-cache\da3a8bc5e1d250a6447665ec036274b7eac31aea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\khyat\.android\build-cache\45e6f0a0c7f34831e0d084a4e3a25e20dd77ff82\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\khyat\.android\build-cache\08dad6647c3ca7e28d57dc6c302c01c86e28b4c5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\khyat\.android\build-cache\a46038d3a86e4391c576a0bc4cda51bf133ce138\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\khyat\.android\build-cache\f0e1d9dea40eb4d7555249f8b21191fc996fc760\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\khyat\.android\build-cache\a4f6089d95285d5a41e550b76ef5448a9a649f42\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\khyat\.android\build-cache\a39a56954ab21513c9a8936738543e8abedff442\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\khyat\.android\build-cache\a9313d04b04ac4883f67fc3bf921a5ba034135db\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\khyat\.android\build-cache\f2722b550fbad5ec118afa04ab77bd33d02349ae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\khyat\.android\build-cache\4eaa18432142ecfac7151aa6c69bbce4cac5944b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.darshit.khyatee.MainActivity
+ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.darshit.khyatee.Guardian
+ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:19:9-46
+	android:name
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:19:19-43
+activity#com.example.darshit.khyatee.Blind
+ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml:20:19-40
+uses-sdk
+INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\khyat\.android\build-cache\da3a8bc5e1d250a6447665ec036274b7eac31aea\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\khyat\.android\build-cache\45e6f0a0c7f34831e0d084a4e3a25e20dd77ff82\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\khyat\.android\build-cache\08dad6647c3ca7e28d57dc6c302c01c86e28b4c5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\khyat\.android\build-cache\a46038d3a86e4391c576a0bc4cda51bf133ce138\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\khyat\.android\build-cache\f0e1d9dea40eb4d7555249f8b21191fc996fc760\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\khyat\.android\build-cache\a4f6089d95285d5a41e550b76ef5448a9a649f42\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\khyat\.android\build-cache\a39a56954ab21513c9a8936738543e8abedff442\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\khyat\.android\build-cache\a9313d04b04ac4883f67fc3bf921a5ba034135db\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\khyat\.android\build-cache\f2722b550fbad5ec118afa04ab77bd33d02349ae\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\khyat\.android\build-cache\4eaa18432142ecfac7151aa6c69bbce4cac5944b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\khyat\.android\build-cache\da3a8bc5e1d250a6447665ec036274b7eac31aea\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khyat\Downloads\Khyatee\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\khyat\.android\build-cache\da3a8bc5e1d250a6447665ec036274b7eac31aea\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\khyat\.android\build-cache\45e6f0a0c7f34831e0d084a4e3a25e20dd77ff82\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\khyat\.android\build-cache\08dad6647c3ca7e28d57dc6c302c01c86e28b4c5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\khyat\.android\build-cache\a46038d3a86e4391c576a0bc4cda51bf133ce138\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\khyat\.android\build-cache\f0e1d9dea40eb4d7555249f8b21191fc996fc760\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\khyat\.android\build-cache\a4f6089d95285d5a41e550b76ef5448a9a649f42\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\khyat\.android\build-cache\a39a56954ab21513c9a8936738543e8abedff442\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\khyat\.android\build-cache\a9313d04b04ac4883f67fc3bf921a5ba034135db\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\khyat\.android\build-cache\f2722b550fbad5ec118afa04ab77bd33d02349ae\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\khyat\.android\build-cache\da3a8bc5e1d250a6447665ec036274b7eac31aea\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\khyat\.android\build-cache\da3a8bc5e1d250a6447665ec036274b7eac31aea\output\AndroidManifest.xml:26:9-47
